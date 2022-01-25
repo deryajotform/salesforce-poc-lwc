@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CspTrustedSite xmlns="http://soap.sforce.com/2006/04/metadata">
     <context>All</context>
-    <description>Jotform API</description>
-    <endpointUrl>https://api.jotform.com</endpointUrl>
+    <description>rds</description>
+    <endpointUrl>*.jotform.pro</endpointUrl>
     <isActive>true</isActive>
     <isApplicableToConnectSrc>true</isApplicableToConnectSrc>
     <isApplicableToFontSrc>false</isApplicableToFontSrc>
